@@ -13,7 +13,7 @@ print(f"Hola {nombre}!")
 
 # Actividad 3:
 # Crear un programa que pida al usuario su nombre, apellido, edad y lugar de residencia e
-# imprima por pantalla una oración con los datos ingresados.
+# imprima por pantalla una oración con los datos ingresados
 nombre = input("Ingrese su nombre: ")
 apellido = input("Ingrese su apellido: ")
 edad = input("Ingrese su edad: ")
